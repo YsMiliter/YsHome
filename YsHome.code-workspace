@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Personal_Sakura_Guide_Page.-.1.2"
+		},
+		{
+			"path": "../homepage-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homepage-main"
+	}
+}
